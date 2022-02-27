@@ -1,5 +1,6 @@
 # Research-paper-on-Edge-Computing
 This paper is written on the analysis of various papers written on edge computing and summarises the emergence, growth, current standpoint, future challeneges and expectations from edge computing.  
+  
 Most notable influences for this paper are: -  
 + M. Satyanarayanan, "The Emergence of Edge Computing"  
 + W. Shi and S. Dustdar, "The Promise of Edge Computing"  
